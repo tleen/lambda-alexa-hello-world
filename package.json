@@ -1,0 +1,23 @@
+{
+  "name": "lambda-alexa-hello-world",
+  "version": "0.0.0",
+  "description": "Testing lambda/alexa stuff via the \"Hello World\" app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tleen/lambda-alexa-hello-world.git"
+  },
+  "author": "Tom Leen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tleen/lambda-alexa-hello-world/issues"
+  },
+  "homepage": "https://github.com/tleen/lambda-alexa-hello-world#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-aws-lambda": "^0.10.0"
+  }
+}
